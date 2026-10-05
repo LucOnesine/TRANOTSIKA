@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardMesAnnonce"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="16dp"
+    android:layout_marginEnd="16dp"
+    android:layout_marginTop="6dp"
+    android:layout_marginBottom="8dp"
+    android:clickable="true"
+    android:focusable="true"
+    app:cardBackgroundColor="@color/card_background"
+    app:cardCornerRadius="18dp"
+    app:cardElevation="2dp"
+    app:strokeColor="#F1F5F9"
+    app:strokeWidth="1dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="12dp">
+
+        <!-- Partie Supérieure : Image + Titre + Prix + Statut + Date -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <!-- Vignette Image avec coins arrondis -->
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="74dp"
+                android:layout_height="74dp"
+                app:cardCornerRadius="14dp"
+                app:cardElevation="0dp"
+                app:strokeWidth="0dp">
+
+                <ImageView
+                    android:id="@+id/imgAnnonce"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/house_sample_1"
+                    android:contentDescription="@string/app_name" />
+            </com.google.android.material.card.MaterialCardView>
+
+            <!-- Infos de l'annonce -->
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <!-- Ligne Statut + Date de publication -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <!-- Badge Statut -->
+                    <TextView
+                        android:id="@+id/tvStatutBadge"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bg_badge_active"
+                        android:fontFamily="sans-serif-medium"
+                        android:text="Active"
+                        android:textColor="#15803D"
+                        android:textSize="11sp" />
+
+                    <!-- Date de publication -->
+                    <TextView
+                        android:id="@+id/tvDatePublication"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="end"
+                        android:fontFamily="sans-serif"
+                        android:text="Publié le 12 Oct"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="11sp" />
+                </LinearLayout>
+
+                <!-- Titre de l'annonce -->
+                <TextView
+                    android:id="@+id/tvTitreAnnonce"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:ellipsize="end"
+                    android:fontFamily="sans-serif-bold"
+                    android:maxLines="1"
+                    android:text="Duplex Moderne Riviera"
+                    android:textColor="@color/text_primary"
+                    android:textSize="15sp" />
+
+                <!-- Prix -->
+                <TextView
+                    android:id="@+id/tvPrixAnnonce"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:fontFamily="sans-serif-bold"
+                    android:text="250 000 Ar/mois"
+                    android:textColor="@color/primary_blue"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <!-- Ligne de séparation fine -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="8dp"
+            android:background="#F8FAFC" />
+
+        <!-- Partie Inférieure : Métriques (Vues, Favoris) + Boutons Action (Éditer, Supprimer) -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <!-- Compteur de Vues -->
+            <ImageView
+                android:layout_width="16dp"
+                android:layout_height="16dp"
+                android:src="@drawable/ic_eye"
+                app:tint="@color/text_secondary"
+                android:contentDescription="Vues" />
+
+            <TextView
+                android:id="@+id/tvVuesCount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:fontFamily="sans-serif"
+                android:text="124 vues"
+                android:textColor="@color/text_secondary"
+                android:textSize="12sp" />
+
+            <!-- Compteur de Favoris -->
+            <ImageView
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_marginStart="14dp"
+                android:src="@drawable/ic_heart_outline"
+                app:tint="@color/text_secondary"
+                android:contentDescription="Favoris" />
+
+            <TextView
+                android:id="@+id/tvFavorisCount"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:layout_weight="1"
+                android:fontFamily="sans-serif"
+                android:text="28 favoris"
+                android:textColor="@color/text_secondary"
+                android:textSize="12sp" />
+
+            <!-- Bouton Éditer (Crayon) -->
+            <FrameLayout
+                android:id="@+id/btnEditerAnnonce"
+                android:layout_width="34dp"
+                android:layout_height="34dp"
+                android:layout_marginEnd="8dp"
+                android:background="@drawable/bg_action_btn_gray"
+                android:clickable="true"
+                android:focusable="true">
+
+                <ImageView
+                    android:layout_width="16dp"
+                    android:layout_height="16dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_edit_pencil"
+                    app:tint="@color/text_primary"
+                    android:contentDescription="Éditer" />
+            </FrameLayout>
+
+            <!-- Bouton Supprimer (Poubelle) -->
+            <FrameLayout
+                android:id="@+id/btnSupprimerAnnonce"
+                android:layout_width="34dp"
+                android:layout_height="34dp"
+                android:background="@drawable/bg_action_btn_delete"
+                android:clickable="true"
+                android:focusable="true">
+
+                <ImageView
+                    android:layout_width="16dp"
+                    android:layout_height="16dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_trash"
+                    app:tint="#EF4444"
+                    android:contentDescription="Supprimer" />
+            </FrameLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

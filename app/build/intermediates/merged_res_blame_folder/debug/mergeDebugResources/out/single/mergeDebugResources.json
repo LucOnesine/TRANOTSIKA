@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-ldpi_sample_thumbnail_bath.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-ldpi/sample_thumbnail_bath.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_ic_filter.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\ic_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_bg_chip_selected.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\bg_chip_selected.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-hdpi_sample_thumbnail_bath.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-hdpi/sample_thumbnail_bath.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_ic_add_blue.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_add_blue.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_ic_trash.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_trash.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_bg_characteristic_badge.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\bg_characteristic_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_ic_add_circle.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_bg_pro_banner.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_pro_banner.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-anydpi-v24_sample_thumbnail_bed.xml.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-anydpi-v24/sample_thumbnail_bed.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_bg_agent_card.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\bg_agent_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable-mdpi_house_sample_1.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-pngs-25:\\drawable-mdpi\\house_sample_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_ic_heart_filled.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\ic_heart_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable-hdpi_house_sample_2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-pngs-25:\\drawable-hdpi\\house_sample_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_ic_chat.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\ic_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-ldpi_sample_thumbnail_bed.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-ldpi/sample_thumbnail_bed.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_ic_crown.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_crown.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_bg_input_field.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_input_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable-anydpi-v24_house_sample_1.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-pngs-25:\\drawable-anydpi-v24\\house_sample_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_bg_btn_contact.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\bg_btn_contact.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-mdpi_sample_thumbnail_bath.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-mdpi/sample_thumbnail_bath.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable-anydpi-v24_house_sample_2.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-pngs-25:\\drawable-anydpi-v24\\house_sample_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_bg_search_bar.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\bg_search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_ic_camera_add.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_camera_add.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_bg_action_btn_delete.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_action_btn_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable-xhdpi_house_sample_1.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-pngs-25:\\drawable-xhdpi\\house_sample_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable-xxxhdpi_house_sample_2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-pngs-25:\\drawable-xxxhdpi\\house_sample_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\layout_item_maison.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\layout\\item_maison.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-xxxhdpi_sample_thumbnail_bath.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-xxxhdpi/sample_thumbnail_bath.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-mdpi_sample_thumbnail_bed.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-mdpi/sample_thumbnail_bed.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-hdpi_sample_thumbnail_bed.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-hdpi/sample_thumbnail_bed.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_ic_location_pin.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\ic_location_pin.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-xxhdpi_sample_thumbnail_bath.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-xxhdpi/sample_thumbnail_bath.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-anydpi-v24_sample_thumbnail_villa.xml.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-anydpi-v24/sample_thumbnail_villa.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable-hdpi_house_sample_1.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-pngs-25:\\drawable-hdpi\\house_sample_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_bg_circle_button.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\bg_circle_button.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-xxxhdpi_sample_thumbnail_bed.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-xxxhdpi/sample_thumbnail_bed.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-hdpi_sample_thumbnail_villa.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-hdpi/sample_thumbnail_villa.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_ic_star_badge.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_star_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_ic_favorite_nav.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\ic_favorite_nav.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/layout_activity_publier_annonce.xml.flat",
+        "source": "com.tranotsika.app-main-31:/layout/activity_publier_annonce.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_bg_badge_pro.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_badge_pro.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_bg_chip_unselected.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\bg_chip_unselected.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/layout_activity_publier_hub.xml.flat",
+        "source": "com.tranotsika.app-main-31:/layout/activity_publier_hub.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable-ldpi_house_sample_2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-pngs-25:\\drawable-ldpi\\house_sample_2.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-xxhdpi_sample_thumbnail_villa.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-xxhdpi/sample_thumbnail_villa.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-mdpi_sample_thumbnail_villa.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-mdpi/sample_thumbnail_villa.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_ic_add_white.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_add_white.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-xxxhdpi_sample_thumbnail_villa.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-xxxhdpi/sample_thumbnail_villa.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-xhdpi_sample_thumbnail_bed.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-xhdpi/sample_thumbnail_bed.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/layout_item_mes_annonce.xml.flat",
+        "source": "com.tranotsika.app-main-31:/layout/item_mes_annonce.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_ic_eye.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable-xxhdpi_house_sample_2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-pngs-25:\\drawable-xxhdpi\\house_sample_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_ic_edit_pencil.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_edit_pencil.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_bg_icon_blue.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_icon_blue.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-anydpi-v24_sample_thumbnail_bath.xml.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-anydpi-v24/sample_thumbnail_bath.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_ic_notification_bell.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\ic_notification_bell.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_bg_dashed_add_photo.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_dashed_add_photo.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_bg_icon_purple.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_icon_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_bg_btn_reserver.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\bg_btn_reserver.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable-ldpi_house_sample_1.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-pngs-25:\\drawable-ldpi\\house_sample_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-xhdpi_sample_thumbnail_bath.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-xhdpi/sample_thumbnail_bath.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_ic_chevron_right.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_bg_price_badge.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\bg_price_badge.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-ldpi_sample_thumbnail_villa.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-ldpi/sample_thumbnail_villa.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_bg_stat_card.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_stat_card.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_bg_icon_pink.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_icon_pink.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/layout_activity_mes_annonces.xml.flat",
+        "source": "com.tranotsika.app-main-31:/layout/activity_mes_annonces.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_ic_heart_outline.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\ic_heart_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable_sample_agent_avatar.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\drawable\\sample_agent_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable-xhdpi_house_sample_2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-pngs-25:\\drawable-xhdpi\\house_sample_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable-xxxhdpi_house_sample_1.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-pngs-25:\\drawable-xxxhdpi\\house_sample_1.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_ic_list_bullet.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_list_bullet.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable-xxhdpi_house_sample_1.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-pngs-25:\\drawable-xxhdpi\\house_sample_1.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-xhdpi_sample_thumbnail_villa.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-xhdpi/sample_thumbnail_villa.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-debug-29:\\drawable-mdpi_house_sample_2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.3.0\\com.tranotsika.app-pngs-25:\\drawable-mdpi\\house_sample_2.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_bg_badge_active.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_badge_active.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_bg_action_btn_gray.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_action_btn_gray.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable-xxhdpi_sample_thumbnail_bed.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-xxhdpi/sample_thumbnail_bed.png"
+    },
+    {
+        "merged": "com.tranotsika.app-debug-29:/drawable_bg_badge_pending.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_badge_pending.xml"
+    }
+]

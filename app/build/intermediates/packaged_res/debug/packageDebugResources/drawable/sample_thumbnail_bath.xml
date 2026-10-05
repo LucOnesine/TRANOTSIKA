@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="72dp"
+    android:height="72dp"
+    android:viewportWidth="72"
+    android:viewportHeight="72">
+    <path
+        android:pathData="M0,0h72v72h-72z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:angle="90"
+                android:startColor="#93C5FD"
+                android:endColor="#60A5FA"
+                android:type="linear" />
+        </aapt:attr>
+    </path>
+    <!-- Baignoire stylisée -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M16,36h40v14c0,5.5 -4.5,10 -10,10h-20c-5.5,0 -10,-4.5 -10,-10z"/>
+</vector>

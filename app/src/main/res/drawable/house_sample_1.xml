@@ -1,0 +1,68 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="400dp"
+    android:height="260dp"
+    android:viewportWidth="400"
+    android:viewportHeight="260">
+
+    <!-- Ciel et dégradé d'ambiance lumineuse -->
+    <path
+        android:pathData="M0,0h400v260h-400z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:angle="45"
+                android:startColor="#F3E8FF"
+                android:centerColor="#FEF3C7"
+                android:endColor="#DBEAFE"
+                android:type="linear" />
+        </aapt:attr>
+    </path>
+
+    <!-- Structure moderne / Murs du duplex -->
+    <path
+        android:fillColor="#E5E7EB"
+        android:pathData="M30,40h340v220h-340z"/>
+
+    <!-- Grandes baies vitrées -->
+    <path
+        android:pathData="M60,60h130v170h-130z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:angle="90"
+                android:startColor="#93C5FD"
+                android:endColor="#3B82F6"
+                android:type="linear" />
+        </aapt:attr>
+    </path>
+
+    <path
+        android:pathData="M210,60h130v170h-130z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:angle="90"
+                android:startColor="#BFDBFE"
+                android:endColor="#60A5FA"
+                android:type="linear" />
+        </aapt:attr>
+    </path>
+
+    <!-- Balcon & Toiture terrasse contemporaine -->
+    <path
+        android:fillColor="#1F2937"
+        android:pathData="M20,30h360v16h-360z"/>
+    
+    <path
+        android:fillColor="#4B5563"
+        android:pathData="M40,140h320v10h-320z"/>
+
+    <!-- Végétation / Palmiers stylisés -->
+    <path
+        android:fillColor="#15803D"
+        android:pathData="M30,260 C35,200 45,150 70,120 C60,140 50,170 50,260 Z"/>
+    <path
+        android:fillColor="#16A34A"
+        android:pathData="M25,140 C50,130 80,135 90,150 C70,155 45,150 25,140 Z"/>
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M70,120 C95,110 115,120 120,135 C100,135 85,130 70,120 Z"/>
+</vector>

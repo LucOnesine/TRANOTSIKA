@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Couleurs primaires & marque Tranotsika -->
+    <color name="primary_blue">#2563EB</color>
+    <color name="primary_blue_dark">#1D4ED8</color>
+    <color name="primary_blue_light">#3B82F6</color>
+    <color name="blue_subtle">#EFF6FF</color>
+    
+    <!-- Bouton Contacter (Lilac/Periwinkle comme sur la maquette) -->
+    <color name="contact_purple_bg">#B4B0FF</color>
+    <color name="contact_purple_text">#1E1B4B</color>
+
+    <!-- Bouton Réserver -->
+    <color name="reserve_blue_bg">#2563EB</color>
+
+    <!-- Neutres & Arrière-plans -->
+    <color name="screen_background">#FAF8F7</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="badge_background">#F3F4F6</color>
+    <color name="filter_unselected_bg">#FFFFFF</color>
+
+    <!-- Textes -->
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_muted">#9CA3AF</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- Éléments d'accent -->
+    <color name="heart_pink">#F43F5E</color>
+    <color name="heart_bg_circle">#FFFFFF</color>
+    <color name="icon_tint_gray">#6B7280</color>
+    <color name="border_light">#E5E7EB</color>
+
+    <!-- Bottom Navigation -->
+    <color name="nav_active">#2563EB</color>
+    <color name="nav_inactive">#9CA3AF</color>
+    <color name="nav_publish_pink">#E11D48</color>
+
+    <!-- Agent card map tint -->
+    <color name="map_green_tint">#DCFCE7</color>
+    <color name="map_water_tint">#E0F2FE</color>
+</resources>

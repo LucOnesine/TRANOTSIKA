@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable-xxxhdpi_house_sample_2.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-xxxhdpi/house_sample_2.png"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_bg_chip_selected.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_chip_selected.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_ic_share.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_ic_chat.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_chat.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable-mdpi_house_sample_2.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-mdpi/house_sample_2.png"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_sample_agent_avatar.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/sample_agent_avatar.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_ic_search.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_bg_agent_card.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_agent_card.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable-xhdpi_house_sample_2.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-xhdpi/house_sample_2.png"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_bg_search_bar.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_search_bar.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_ic_person.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable-xxhdpi_house_sample_1.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-xxhdpi/house_sample_1.png"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable-ldpi_house_sample_2.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-ldpi/house_sample_2.png"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_bg_characteristic_badge.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_characteristic_badge.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable-anydpi-v24_house_sample_1.xml.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-anydpi-v24/house_sample_1.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_ic_location_pin.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_location_pin.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_ic_heart_outline.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_heart_outline.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_bg_btn_contact.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_btn_contact.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable-hdpi_house_sample_2.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-hdpi/house_sample_2.png"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_bg_price_badge.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_price_badge.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable-xhdpi_house_sample_1.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-xhdpi/house_sample_1.png"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable-xxxhdpi_house_sample_1.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-xxxhdpi/house_sample_1.png"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_ic_filter.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.tranotsika.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_bg_circle_button.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_circle_button.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/layout_item_maison.xml.flat",
+        "source": "com.tranotsika.app-main-31:/layout/item_maison.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable-anydpi-v24_house_sample_2.xml.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-anydpi-v24/house_sample_2.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable-mdpi_house_sample_1.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-mdpi/house_sample_1.png"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_ic_home.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable-hdpi_house_sample_1.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-hdpi/house_sample_1.png"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_bg_chip_unselected.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_chip_unselected.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/layout_activity_detail.xml.flat",
+        "source": "com.tranotsika.app-main-31:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_bg_btn_reserver.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/bg_btn_reserver.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_ic_heart_filled.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_heart_filled.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_ic_notification_bell.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_notification_bell.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_ic_add_circle.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_add_circle.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable-xxhdpi_house_sample_2.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-xxhdpi/house_sample_2.png"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable_ic_favorite_nav.xml.flat",
+        "source": "com.tranotsika.app-main-31:/drawable/ic_favorite_nav.xml"
+    },
+    {
+        "merged": "com.tranotsika.app-merged_res-29:/drawable-ldpi_house_sample_1.png.flat",
+        "source": "com.tranotsika.app-pngs-25:/drawable-ldpi/house_sample_1.png"
+    }
+]

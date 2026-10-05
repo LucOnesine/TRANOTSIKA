@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="badge_background">#F3F4F6</color>
+    <color name="blue_subtle">#EFF6FF</color>
+    <color name="border_light">#E5E7EB</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="contact_purple_bg">#B4B0FF</color>
+    <color name="contact_purple_text">#1E1B4B</color>
+    <color name="filter_unselected_bg">#FFFFFF</color>
+    <color name="heart_bg_circle">#FFFFFF</color>
+    <color name="heart_pink">#F43F5E</color>
+    <color name="icon_tint_gray">#6B7280</color>
+    <color name="map_green_tint">#DCFCE7</color>
+    <color name="map_water_tint">#E0F2FE</color>
+    <color name="nav_active">#2563EB</color>
+    <color name="nav_inactive">#9CA3AF</color>
+    <color name="nav_publish_pink">#E11D48</color>
+    <color name="primary_blue">#2563EB</color>
+    <color name="primary_blue_dark">#1D4ED8</color>
+    <color name="primary_blue_light">#3B82F6</color>
+    <color name="reserve_blue_bg">#2563EB</color>
+    <color name="screen_background">#FAF8F7</color>
+    <color name="text_muted">#9CA3AF</color>
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_white">#FFFFFF</color>
+    <string name="app_name">Tranotsika</string>
+    <string name="btn_contact">Contacter</string>
+    <string name="btn_reserve">Réserver</string>
+    <string name="current_location_label">Localisation actuelle</string>
+    <string name="default_location">Abidjan, Côte d\'Ivoire</string>
+    <string name="feature_bathrooms">%d SdB</string>
+    <string name="feature_bedrooms">%d Chambres</string>
+    <string name="feature_furnished">Meublé</string>
+    <string name="feature_surface">%d m²</string>
+    <string name="feature_unfurnished">Non meublé</string>
+    <string name="filter_apartment">Appartement</string>
+    <string name="filter_duplex">Duplex</string>
+    <string name="filter_studio">Studio</string>
+    <string name="filter_villa">Villa</string>
+    <string name="nav_favorites">Favoris</string>
+    <string name="nav_home">Accueil</string>
+    <string name="nav_messages">Messages</string>
+    <string name="nav_profile">Profil</string>
+    <string name="nav_publish">Publier</string>
+    <string name="search_hint">Rechercher une maison...</string>
+    <string name="section_description">Description</string>
+    <string name="section_location">Localisation</string>
+    <string name="section_recommended">Recommandés pour vous</string>
+    <string name="see_all">Voir tout</string>
+    <string name="toast_contacting">Appel vers %s en cours...</string>
+    <string name="toast_favorite_added">Ajouté aux favoris</string>
+    <string name="toast_favorite_removed">Retiré des favoris</string>
+    <string name="toast_reserved">Demande de réservation envoyée avec succès !</string>
+    <string name="toast_socket_connected">Connecté au serveur Tranotsika</string>
+    <string name="toast_socket_searching">Recherche en temps réel via Socket...</string>
+    <style name="Theme.Tranotsika" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorPrimaryVariant">@color/primary_blue_dark</item>
+        <item name="colorOnPrimary">@color/text_white</item>
+        
+        <item name="colorSecondary">@color/contact_purple_bg</item>
+        <item name="colorSecondaryVariant">@color/contact_purple_text</item>
+        <item name="colorOnSecondary">@color/contact_purple_text</item>
+
+        <item name="android:statusBarColor">@color/screen_background</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">true</item>
+        <item name="android:windowBackground">@color/screen_background</item>
+    </style>
+</resources>

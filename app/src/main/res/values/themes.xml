@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Tranotsika" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorPrimaryVariant">@color/primary_blue_dark</item>
+        <item name="colorOnPrimary">@color/text_white</item>
+        
+        <item name="colorSecondary">@color/contact_purple_bg</item>
+        <item name="colorSecondaryVariant">@color/contact_purple_text</item>
+        <item name="colorOnSecondary">@color/contact_purple_text</item>
+
+        <item name="android:statusBarColor">@color/screen_background</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="android:windowBackground">@color/screen_background</item>
+    </style>
+</resources>

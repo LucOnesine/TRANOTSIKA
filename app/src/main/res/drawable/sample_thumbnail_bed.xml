@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="72dp"
+    android:height="72dp"
+    android:viewportWidth="72"
+    android:viewportHeight="72">
+    <path
+        android:pathData="M0,0h72v72h-72z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:angle="45"
+                android:startColor="#FDE68A"
+                android:endColor="#F472B6"
+                android:type="linear" />
+        </aapt:attr>
+    </path>
+    <!-- Chambre stylisée -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M14,38h44v20h-44z"/>
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M18,30h16v8h-16zM38,30h16v8h-16z"/>
+</vector>

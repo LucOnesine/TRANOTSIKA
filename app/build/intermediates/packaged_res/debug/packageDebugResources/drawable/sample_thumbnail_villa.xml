@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="72dp"
+    android:height="72dp"
+    android:viewportWidth="72"
+    android:viewportHeight="72">
+    <path
+        android:pathData="M0,0h72v72h-72z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:angle="45"
+                android:startColor="#FBCFE8"
+                android:endColor="#F43F5E"
+                android:type="linear" />
+        </aapt:attr>
+    </path>
+    <!-- Salon moderne stylisé -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M16,42h40v14h-40z"/>
+    <path
+        android:fillColor="#FFE4E6"
+        android:pathData="M24,24h24v14h-24z"/>
+</vector>
